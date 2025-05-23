@@ -37,7 +37,7 @@ function About () {
   <h2>A Bit About Me</h2>
   <p>
     When I’m not coding, I enjoy <strong>baking, reading, and spending time outdoors</strong>. I love solving
-    problems and constantly learning — whether that’s the newest JavaScript feature or creating a new reciepe for cookies.
+    problems and constantly learning — whether that’s the newest JavaScript feature or creating a new recipe for cookies.
   </p>
 
   <h2>Let’s Talk!</h2>
