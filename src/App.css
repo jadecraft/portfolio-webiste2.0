@@ -125,7 +125,7 @@ body {
   color: black;
 }
 
-/* About Page Styles */
+
 .about {
   max-width: 800px;
   margin: 2rem auto;
@@ -195,7 +195,7 @@ body {
   line-height: 1.6;
 }
 
-/* Keep the h2 styling consistent inside each box */
+
 .about-section h2 {
   color: #222;
   margin-bottom: 1rem;
@@ -231,6 +231,62 @@ body {
 .projects ul li {
   margin-bottom: 0.75rem;
   padding-left: 0.25rem;
+}
+
+@media (max-width: 600px) {
+  
+  .nav {
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    gap: 1rem;
+  }
+
+  .nav ul {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  
+  .site-title {
+    font-size: 2rem;
+  }
+
+ 
+  .self-image {
+    width: 100%;
+    max-width: 300px;
+    padding: 2%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  
+  .description {
+    font-size: 1.2rem;
+    padding: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  
+  .contact-form {
+    width: 90%;
+    max-width: 100%;
+    margin: 1rem auto;
+    padding: 1rem;
+  }
+
+  
+  .about, .projects {
+    padding: 1rem;
+    margin: 1rem;
+  }
+
+  
+  .about h1, .projects h1 {
+    font-size: 1.75rem;
+  }
 }
 
 
