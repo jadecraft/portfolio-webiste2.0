@@ -183,6 +183,26 @@ body {
   text-decoration: underline;
 }
 
+.about-section {
+  background-color: #fefefe;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+  padding: 1.5rem 2rem;
+  margin: 1.5rem 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Keep the h2 styling consistent inside each box */
+.about-section h2 {
+  color: #222;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+
 .projects {
   max-width: 800px;
   margin: 2rem auto;
@@ -212,4 +232,5 @@ body {
   margin-bottom: 0.75rem;
   padding-left: 0.25rem;
 }
+
 
