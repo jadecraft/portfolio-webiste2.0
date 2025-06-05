@@ -13,11 +13,10 @@ function Projects() {
           </a>
         </li>
         <li>
-          <strong>Whip'd Cookies</strong> – An e-commerce website.<br />
-          <a href="https://whipd-cookies.netlify.app/" target="_blank" rel="noopener noreferrer">
-            View Whip'd Cookies
+          <strong>Personal Blog</strong> – Built with css, html, and javascript.<br />
+          <a href="https://personal-blog-jadec.netlify.app/" target="_blank" rel="noopener noreferrer">
+            View My Personal Blog
           </a>
-          <p>(currently working on the Whip'd Cookies project)</p>
         </li>
       </ul>
     </section>
